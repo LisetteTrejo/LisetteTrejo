@@ -6,6 +6,4 @@
   - [osTicket: Prerequisites and Installation](https://github.com/LisetteTrejo/osticket-prereqs)
 
 - <b>Azure Compute and Networking</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/LisetteTrejo/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/LisetteTrejo/azure-network-protocols)
-- <b>Network File Sharing and Permissions
+  - [Preforming Activities on the Network](https://github.com/LisetteTrejo/Azure-Compute-and-Networking)
